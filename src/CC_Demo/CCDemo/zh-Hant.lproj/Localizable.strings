@@ -1,0 +1,294 @@
+/*
+ Localizable.strings
+ CCDemo
+ 
+ Created by mwx325691 on 16/8/12.
+ Copyright © 2016年 mwx325691. All rights reserved.
+ */
+"userName" = "用户名";
+
+"callData" = "呼叫随路";
+
+"accessCode" = "接入码";
+
+"vndId" = "虚拟呼叫中心";
+
+"Login" = "登录";
+
+"Logout" = "登出";
+
+"Call" = "呼叫";
+
+"anoymousNo" = "匿名卡号";
+
+"domain" = "域名";
+
+"LoginResult" = "登录失败";
+
+"LoginInterface" = "登录接口调用错误";
+
+"LogoutResult" = "登出失败";
+
+"Host" = "设置网关错误";
+
+"Remind" = "提醒";
+
+"OK" = "确定";
+
+"NetLevel" = "网络质量等级";
+
+"Video" = "视频呼叫";
+
+"Audio" = "语音呼叫";
+
+"Chat" = "文字呼叫";
+
+"AudioHangUp" = "挂断语音";
+
+"VideoHangUp" = "挂断视频";
+
+"Receiver" = "听筒";
+
+"Speaker" = "扬声器";
+
+"BackCamera" = "后置摄像头";
+
+"FrontCamera" = "前置摄像头";
+
+"Mute" = "静音";
+
+"CancelMute" = "取消静音";
+
+"MicMute" = "麦克风静音";
+
+"OpenMic" = "开启麦克风";
+
+"CallEnd" = "通话结束";
+
+"ReleaseCall" = "请先结束通话";
+
+"VideoInfo" = "视频流信息";
+
+"CloseInfo" = "关闭视频流";
+
+"Success" = "呼叫成功";
+
+"Fail" = "呼叫失败";
+
+"Queue" = "正在排队";
+
+"Sure" = "确认";
+
+"Cancel" = "取消";
+
+"QueueTimeOut" = "排队超时";
+
+"QueueEnd" = "排队结束";
+
+"Position" = "位置";
+
+"WaitTime" = "等待时间";
+
+"NoVideo" = "无视频通话";
+
+"Current" = "当前已有呼叫，请稍等";
+
+"CallInterface" = "呼叫接口调用错误";
+
+"Calling" = "正在呼叫";
+
+"SendLossFraction" = "发送方丢包率";
+
+"SendDelay" = "发送方平均时延";
+
+"ReceiveLossFraction" = "接收方丢包率";
+
+"ReceiveDelay" = "接收方平均时延";
+
+"EncodeSize" = "发送分辨率";
+
+"DecodeSize" = "接收分辨率";
+
+"Rotate" = "旋转视频";
+
+"Back" = "返回";
+
+"CallTimeOut" = "呼叫超时";
+
+"NoAudio" = "无语音通话";
+
+"NoMessage" = "消息不能为空";
+
+"SendInterface" = "发送接口调用失败";
+
+"Send" = "发送";
+
+"Receive" = "接收";
+
+"SendFailed" = "消息发送失败";
+
+"LeaveConf" = "用户离开会议";
+
+"Share" = "共享桌面";
+
+"Mode" = "模式切换";
+
+"NoShare" = "无共享桌面";
+
+"PlaceHolder" = "输入文字...";
+
+"SipIp" = "请输入sip ip";
+
+"SipPort" = "请输入sip port";
+
+"SetSip" = "设置sip地址以及接入码";
+
+"SetAccesscode" = "请输入接入码";
+
+"SetVerifycode" = "验证码";
+
+"SipError" = "sip地址或接入码格式错误，请重新输入";
+
+"Cancel" = "取消";
+
+"AccesscodeError" = "接入码格式有误";
+
+"ParamError" = "参数错误";
+
+"GetCode" = "获取验证码";
+
+"LoginIP" = "ICS IP";
+
+"LoginPort" = "ICS端口号";
+
+"SipServerIP" = "SIP IP";
+
+"SipServerPort" = "SIP端口号";
+
+"ChatAcessCode" = "文字接入码";
+
+"AudioAcessCode" = "通话接入码";
+
+"DoWebChat" = "发起文字呼叫";
+
+"Position" = "位置";
+
+"OnlineAgentNum" = "在线坐席数";
+
+"LongsWaitTime" = "最长等待时间";
+
+"Canceled" = "已取消";
+
+"Canceling" = "正在取消";
+
+"IP" = "\"IP\" 无效";
+
+"Port" = "\"端口号\" 无效";
+
+"ACode" = "\"接入码\" 无效";
+
+"vndIdError" = "虚拟呼叫中心号码不能为空";
+
+"userNameError" = "用户名不能为空";
+
+"anonymousNoError" = "匿名卡号不能为空";
+
+"domainError" = "域名为不能为空";
+
+"chatAcodeError" = "文字接入码不能为空";
+
+"audioAcodeError" = "通话接入码不能为空";
+
+"SipIpFiledError" = "Sip地址不能为空";
+
+"SipPortFiledError" = "Sip端口不能为空";
+
+"GetCodeError" = "获取验证码失败！";
+
+"ChatSuccess" = "文字交谈建立";
+
+"ChatLab" = "文字交谈";
+
+"Configuration" = "配置";
+
+"CallClick" = "点击通话";
+
+"Voice" = "语音";
+
+"Video" = "视频";
+
+"Loading..." = "正在登录";
+
+"Nothing to release"="暂无释放的";
+"release"="释放";
+
+"-1" = "参数错误";
+
+"-2" = "文字交谈为建立";
+
+"-3" = "语音未连接";
+
+"-4" = "无人应答";
+
+"-5" = "网络发生错误";
+
+"10-100-002"="服务端配置问题";
+
+"10-100-003"="没有连接到ccs，was服务不可用";
+
+"10-100-004"="WebmAnyService服务不可用";
+
+"10-100-005"="无权限调用接口";
+
+"10-100-006"="用户未登陆";
+
+"10-100-007"="用户请求参数为空或者不合法";
+
+"10-100-008"="用户已登陆";
+
+"10-100-009"="资源不可用";
+
+"10-100-010"="方法不支持";
+
+"10-100-011"="状态错误";
+
+"10-100-012"="用户的WebmServer为空";
+
+"10-100-013"="vdnId不存在";
+
+"10-100-014"="接入码不存在";
+
+"10-100-015"="已达到用户最大登录数";
+
+"10-100-016"="配置代理为空";
+
+"10-100-017"="配置代理发送异常";
+
+"10-200-001"="接入码对应的呼叫已存在";
+
+"10-200-002"="超过用户呼叫最大数";
+
+"10-200-003"="呼叫不存在";
+
+"10-200-004"="编码转换失败";
+
+"10-200-006"="呼叫不是排队状态";
+
+"10-200-007"="呼叫未建立";
+
+"10-200-008"="验证码不合法";
+
+"10-200-009"="验证码生成失败";
+
+"10-300-001"="正在会议中或者在申请会议";
+
+"10-300-002"="会议不存在";
+
+
+
+
+
+
+
+
+

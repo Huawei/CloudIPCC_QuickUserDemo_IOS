@@ -1,0 +1,31 @@
+//
+//  CC-Prex.pch
+//  CCDemo
+//
+//  Created by mwx325691 on 16/4/1.
+//  Copyright © 2016年 mwx325691. All rights reserved.
+//
+
+#ifndef CC_Prex_pch
+#define CC_Prex_pch
+
+//#import <CCIOSSDK.h>
+#import "CCUtil.h"
+#import "CCCommonDefine.h"
+#import "CCNotificationsDefine.h"
+
+#import "CCustom.h"
+#import "CCDemoUtil.h"
+#import "CCLogger.h"
+#import "TPSetViewController.h"
+#import "LoginInfo.h"
+#import "MBProgressHUD.h"
+#import "MBProgressHUD+MJ.h"
+#import "UIView+Extension.h"
+#import "TimeUtil.h"
+
+
+#define SCREEN_WIdTH [[UIScreen mainScreen] bounds].size.width
+#define SCREEN_HEIGHT [[UIScreen mainScreen] bounds].size.height
+
+#endif /* CC_Prex_pch */

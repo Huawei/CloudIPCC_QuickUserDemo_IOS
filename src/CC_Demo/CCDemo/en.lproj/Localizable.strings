@@ -1,0 +1,291 @@
+/* 
+  Localizable.strings
+  CCDemo
+
+  Created by mwx325691 on 16/8/12.
+  Copyright © 2016年 mwx325691. All rights reserved.
+*/
+"userName" = "userName";
+
+"callData" = "callData";
+
+"accessCode" = "accessCode";
+
+"vndId" = "vndId";
+
+"Login" = "Login";
+
+"Logout" = "Logout";
+
+"Call" = "Call";
+
+"anoymousNo" = "AnonymousCard";
+
+"domain" = "Domain";
+
+"LoginResult" = "Login Failed";
+
+"LoginInterface" = "Login Interface Failed";
+
+"LogoutResult" = "Logout Failed";
+
+"Host" = "Set Host Interface Failed";
+
+"Message" = "Message";
+
+"OK" = "OK";
+
+"NetLevel" = "Net Level";
+
+"Video" = "Video";
+
+"Audio" = "Audio";
+
+"Chat" = "Chat";
+
+"AudioHangUp" = "EndAudio";
+
+"VideoHangUp" = "EndVideo";
+
+"Receiver" = "Receiver";
+
+"Speaker" = "Speaker";
+
+"BackCamera" = "BackCam";
+
+"FrontCamera" = "FrontCam";
+
+"Mute" = "Mute";
+
+"Cancel Mute" = "CancelMute";
+
+"MicMute" = "MicMute";
+
+"OpenMic" = "OpenMic";
+
+"CallEnd" = "Call End";
+
+"ReleaseCall" = "please release call";
+
+"VideoInfo" = "VideoInfo";
+
+"CloseInfo" = "CloseInfo";
+
+"Success" = "Call Success";
+
+"Fail" = "Call Failed";
+
+"Queue" = "Is Queuing";
+
+"Cancel" = "Cancel";
+
+"Sure" = "Sure";
+
+"QueueTimeOut" = "Queue Time Out";
+
+"QueueEnd" = "Queue End";
+
+"Position" = "Position";
+
+"WaitTime" = "WaitTime";
+
+"NoVideo" = "Not Have Video";
+
+"Current" = "Current Call Not End,Please Wait";
+
+"CallInterface"  = "Call Interface Failed";
+
+"Calling" = "Calling";
+
+"SendLossFraction" = "SendLossFraction";
+
+"SendDelay" = "SendDelay";
+
+"ReceiveLossFraction" = "ReceiveLossFraction";
+
+"ReceiveDelay" = "ReceiveDelay";
+
+"EncodeSize" = "EncodeSize";
+
+"DecodeSize" = "DecodeSize";
+
+"Rotate" = "Rotate";
+
+"Back" = "Back";
+
+"CallTimeOut" = "Call Time Out";
+
+"NoAudio" = "No Have Audio";
+
+"NoMessage" = "Message is nil";
+
+"SendInterface" = "Send Message Interface Failed";
+
+"Send" = "Send";
+
+"Receive" = "Receive";
+
+"SendFailed" = "Message Send Failed";
+
+"LeaveConf" = "User Leave Conf";
+
+"Share" = "Share";
+
+"Mode" = "Mode";
+
+"NoShare" = "No Share Screen";
+
+"PlaceHolder" = "input text...";
+
+"SipIp" = "input sip ip";
+
+"SipPort" = "input sip port";
+
+"SetSip" = "set sip address and accesscode";
+
+"SetAccesscode" = "input accesscode";
+
+"SetVerifycode" = "Verification code";
+
+"SipError" = "sip or accesscode error，input again";
+
+"Cancel" = "Cancel";
+
+"AccesscodeError" = "accesscode error";
+
+"Remind" = "remind";
+
+"IP" = "ip is invalid";
+
+"Port" = "port is invalid";
+
+"ACode" = "accesscode is invalid";
+
+"ParamError" = "param is invalid";
+
+"GetCode"="get code";
+
+"LoginIP" = "ICS IP";
+
+"LoginPort" = "ICS Port";
+
+"SipIP" = "SIP IP";
+
+"SipPort" = "SIP Port";
+
+"ChatAcessCode" = "Chat ACode";
+
+"AudioAcessCode" = "Audio ACode";
+
+"Position"="Position";
+
+"OnlineAgentNum" = "OnlineAgentNum";
+
+"LongsWaitTime" = "LongsWaitTime";
+
+"Canceled" = "Canceled";
+
+"Canceling" = "Canceling";
+
+"DoWebChat" = "  Start a chat";
+
+"vndIdError" = "vndId is nil";
+
+"userNameError" = "userName is nil";
+
+"GetCodeError" = "Get verify code fail!";
+
+"anonymousNoError" = "anonymousNo is nil";
+
+"domainError" = "domain is nil";
+
+"chatAcodeError" = "chatAcode is nil";
+
+"audioAcodeError" = "audioAcode is nil";
+
+"SipIpFiledError" = "Sip address is nil";
+
+"SipPortFiledError" = "Sip port is nil";
+
+"GetCodeError" = "get verifycode failed！";
+
+"ChatSuccess" = "Text chat established";
+
+"ChatLab" = "Text Chat";
+
+"Configuration" = "Config";
+
+"CallClick" = "Click to dial";
+
+"Voice" = "Voice";
+
+"Video" = "Video";
+
+"Loading..." = "Loading...";
+
+"release"="release";
+
+"Nothing to release"="Nothing to release";
+
+
+"-1" = "参数错误";
+
+"-2" = "文字交谈为建立";
+
+"-3" = "语音未连接";
+
+"-4" = "无人应答";
+
+"-5" = "网络发生错误";
+
+"10-100-002"="服务端配置问题";
+
+"10-100-003"="没有连接到ccs，was服务不可用";
+
+"10-100-004"="WebmAnyService服务不可用";
+
+"10-100-005"="无权限调用接口";
+
+"10-100-006"="用户未登陆";
+
+"10-100-007"="用户请求参数为空或者不合法";
+
+"10-100-008"="用户已登陆";
+
+"10-100-009"="资源不可用";
+
+"10-100-010"="方法不支持";
+
+"10-100-011"="状态错误";
+
+"10-100-012"="用户的WebmServer为空";
+
+"10-100-013"="vdnId不存在";
+
+"10-100-014"="接入码不存在";
+
+"10-100-015"="已达到用户最大登录数";
+
+"10-100-016"="配置代理为空";
+
+"10-100-017"="配置代理发送异常";
+
+"10-200-001"="接入码对应的呼叫已存在";
+
+"10-200-002"="超过用户呼叫最大数";
+
+"10-200-003"="呼叫不存在";
+
+"10-200-004"="编码转换失败";
+
+"10-200-006"="呼叫不是排队状态";
+
+"10-200-007"="呼叫未建立";
+
+"10-200-008"="验证码不合法";
+
+"10-200-009"="验证码生成失败";
+
+"10-300-001"="正在会议中或者在申请会议";
+
+"10-300-002"="会议不存在";
